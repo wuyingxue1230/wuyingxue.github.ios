@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuyingxue1230.github.io</id>
     <title>西瓜不知道</title>
-    <updated>2021-01-06T01:25:36.580Z</updated>
+    <updated>2021-01-06T01:27:05.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuyingxue1230.github.io"/>
     <link rel="self" href="https://wuyingxue1230.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://wuyingxue1230.github.io/images/avatar.png</logo>
     <icon>https://wuyingxue1230.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 西瓜不知道</rights>
+    <entry>
+        <title type="html"><![CDATA[For Whom The Bell Tolls 丧钟为谁鸣]]></title>
+        <id>https://wuyingxue1230.github.io/post/for-whom-the-bell-tolls-sang-zhong-wei-shui-ming/</id>
+        <link href="https://wuyingxue1230.github.io/post/for-whom-the-bell-tolls-sang-zhong-wei-shui-ming/">
+        </link>
+        <updated>2021-01-05T00:56:55.000Z</updated>
+        <content type="html"><![CDATA[<p>No man is an island, entire of itself,<br>
+Every man is a piece of the continent, a part of the main,<br>
+If a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as if a manor of thy friend's or of thine own were,<br>
+Any man's death diminishes me, because I am involved in mankind,<br>
+And therefore never send to know for whom the bells tolls,<br>
+It tolls for thee.</p>
+<p>人非孤洲一片，无法独善其身；<br>
+人为欧陆一分，岂可与它分离；<br>
+一土块，一岬角，友之采邑，汝之庄园，若为沧海蚀，则损欧罗巴；<br>
+生于人世，人之亡故皆令吾损；<br>
+莫问钟声报谁丧；<br>
+丧钟为汝而鸣响。</p>
+<p>--约翰多恩</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奋斗者之殇]]></title>
         <id>https://wuyingxue1230.github.io/post/fen-dou-zhe-zhi-shang/</id>
