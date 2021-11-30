@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuyingxue1230.github.io</id>
     <title>西瓜不知道</title>
-    <updated>2021-01-25T04:05:32.827Z</updated>
+    <updated>2021-11-30T14:53:49.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuyingxue1230.github.io"/>
     <link rel="self" href="https://wuyingxue1230.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://wuyingxue1230.github.io/images/avatar.png</logo>
     <icon>https://wuyingxue1230.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 西瓜不知道</rights>
+    <entry>
+        <title type="html"><![CDATA[ 【阅读01】禅与摩托车维修]]></title>
+        <id>https://wuyingxue1230.github.io/post/shan-yu-mo-tuo-che-wei-xiu/</id>
+        <link href="https://wuyingxue1230.github.io/post/shan-yu-mo-tuo-che-wei-xiu/">
+        </link>
+        <updated>2021-03-01T01:20:49.000Z</updated>
+        <content type="html"><![CDATA[<p>他试图不用逻辑分析就玩转科技，这是办不到的。<br>
+从理性的角度去看待这个铝片，还是从直觉和当下的角度去看待它。</p>
+<p>机械方面的知识，是部件的关系，是分析，是组合，是查找问题。问题并不在发生的地方。</p>
+<p>想吃威化饼干</p>
+<p>在这种大太阳下他竟然想谈论他的车子，这让我很高兴。<br>
+古典的认知法就是针对这些不同的沙堆以及分类法还有彼此之间的关系，而浪漫的认知法则则是针对分类之前的那把沙子，前者是模块化的，后者是统一的。</p>
+<p>他和山上的那匹狼一样，有一种属于动物的神气。自顾自地走自己的路，即使有的时候让别人大吃一惊。我发现他不会经常摇摆不定，这种勇气并不是来自于任何自我牺牲的理想，而是因为他过于热切的追求，所以无所谓什么高贵的情操。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[论中国的传统思想模式]]></title>
         <id>https://wuyingxue1230.github.io/post/lun-zhong-guo-de-chuan-tong-si-xiang-mo-shi/</id>
