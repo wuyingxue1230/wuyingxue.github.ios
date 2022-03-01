@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuyingxue1230.github.io</id>
     <title>西瓜不知道</title>
-    <updated>2021-12-09T16:16:11.566Z</updated>
+    <updated>2022-03-01T19:28:26.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuyingxue1230.github.io"/>
     <link rel="self" href="https://wuyingxue1230.github.io/atom.xml"/>
     <subtitle>Rerum cognoscere causas</subtitle>
     <logo>https://wuyingxue1230.github.io/images/avatar.png</logo>
     <icon>https://wuyingxue1230.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 西瓜不知道</rights>
+    <rights>All rights reserved 2022, 西瓜不知道</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://wuyingxue1230.github.io/post/1/</id>
+        <link href="https://wuyingxue1230.github.io/post/1/">
+        </link>
+        <updated>2022-03-01T11:28:07.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人本主义是所有自卑者的归宿--读《回归故里》有感]]></title>
         <id>https://wuyingxue1230.github.io/post/ren-ben-zhu-yi-shi-suo-you-zi-bei-zhe-de-gui-su-du-lesslesshui-gui-gu-li-greatergreater-you-gan/</id>
